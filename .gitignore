@@ -1,0 +1,16 @@
+/ArmstrongNumber/ArmstrongNumber/x64/Debug/*.log
+/ArmstrongNumber/.vs/ArmstrongNumbers/v15/ipch/*.ipch
+/ArmstrongNumber/.vs/ArmstrongNumbers/v15/*.suo
+/ArmstrongNumber/.vs/ArmstrongNumbers/v15/*.db
+*.log
+*.obj
+*.pch
+*.tlog
+*.filters
+*.idb
+*.exe
+*.ilk
+*.pdb
+*.suo
+*.db
+*.ipch
